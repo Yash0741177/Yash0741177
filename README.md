@@ -34,6 +34,7 @@
 -  📰 Articles: <br>
 	-	[Impact of Ind AS implementation on Financial Reporting ](https://taxguru.in/chartered-accountant/impact-ind-implementation-financial-reporting.html) 
 	- [Demenstifying TDS : A CheatSheet For CA Intermediate Students](https://taxguru.in/income-tax/demystifying-tds-cheatsheet-ca-intermediate-students.html)
+   	-  [GST Exemption : Residential Dwelling Renting Explanation](https://taxguru.in/goods-and-service-tax/gst-exemption-residential-dwelling-renting-explained.html)
         - [GST Exemption : Residential Dwelling Renting Explanation](https://taxguru.in/goods-and-service-tax/gst-exemption-residential-dwelling-renting-explained.html)
         -  [Key TDS connections : Section 194C , 194H , 194J , 194M   ](https://taxguru.in/income-tax/tds-connections-sections-194c-194h-194j-and-194m.html)
 
