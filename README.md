@@ -1,6 +1,6 @@
 # Hello there I am Yash Agarwal👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://images.app.goo.gl/yfcScHMDScwq3P5g7)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -20,8 +20,6 @@
 -----
 <p align="center">
   
-  
-  <img src ="https://images.app.goo.gl/yfcScHMDScwq3P5g7&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
  </p>
