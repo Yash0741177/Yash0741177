@@ -12,8 +12,8 @@
 
 - 💼 Finance Professional: Passionate about accounting, auditing, and financial analysis.
 - 📋 Current Role: Serving as an Article Assistant with experience in:
-    ✅ Statutory Audits
-    🔍 Internal Audits
+    -✅ Statutory Audits
+    -🔍 Internal Audits
 
 - 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
 - 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
