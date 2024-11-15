@@ -1,6 +1,6 @@
 # Hello there I am Yash Agarwal👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yash!;I'm+a+CA+Aspirant...;I'm+also+Finance+Enthusiast...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yash!;I'm+a+CA+Aspirant...;I'm+also+a+Finance+Enthusiast...)](https://git.io/typing-svg)
 
 ![](https://github.com/Yash0741177/Yash0741177/blob/main/icai.jpg)
 
