@@ -21,7 +21,7 @@
 <p align="center">
   
   
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://images.app.goo.gl/yfcScHMDScwq3P5g7&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
  </p>
